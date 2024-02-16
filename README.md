@@ -15,5 +15,5 @@ Carlos Daniel Dos Santos
 
 
 - Atualmente estou trabalhadno Suporte N°1 - Bremen Sistemas
-- Estou cursando Analise e Desenvolvimento de Sistemas - SEANAI
+- Estou cursando Analise e Desenvolvimento de Sistemas - SENAI
 
