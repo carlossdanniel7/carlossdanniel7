@@ -14,5 +14,5 @@ Carlos Daniel Dos Santos
 </div>
 
 
-- Estou cursando Analise e Desenvolvimento de Sistemas - SENAI
+- Estou cursando Técnico Desenvolvimento de Sistemas - SENAI
 
